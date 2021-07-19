@@ -1,6 +1,9 @@
+*{
+    max-width: 1366px;
+}
 .target{
     display: inline-flex;
-    width: 300px;
+    width: 250px;
     flex-wrap: wrap;
     margin: 5px;
 }
