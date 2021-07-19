@@ -1,0 +1,6 @@
+.target{
+    display: inline-flex;
+    width: 300px;
+    flex-wrap: wrap;
+    margin: 5px;
+}
